@@ -1,0 +1,146 @@
+@media only screen and (max-width: 768px){
+    .homepage-slider-overlay{
+        padding-left: 0px;
+    }
+
+    .bg-slider-wrap,.homepage-slider-content{
+        height: 650px;
+    }
+
+    .navbar-brand{
+        padding-left: 10px;
+    }
+
+    .homepage-slider-overlay h1{
+        font-size: 30px;
+        margin-top: -20px;
+    }
+
+    .form-intro{
+        width: 100%;
+    }
+
+    .intro-form-homepage legend{
+        font-size: 18px;
+    }
+
+    .intro-form-homepage label{
+        font-size: 14px;
+    }
+
+    .full-navbar-homepage{
+        padding-left: 5px;
+    }
+
+    .full-navbar-homepage p{
+        padding-top: 6px;
+        padding-bottom: 6px;
+        margin: 0px;
+        font-size: 10px;
+        border-right: 0px;
+    }
+
+    .nav-item{
+        padding: 0px;
+        border-right: 1px solid #eee;
+    }
+
+    .nav-item p{
+        padding: 10px;
+    }
+
+    .navbar-right{
+        padding-right: 0px;
+    }
+
+    .homepage-bigtext{
+        width: 100%;
+    }
+
+    .homepage-bigtext h1{
+        font-size: 24px;
+        padding-left: 0px;
+    }
+
+    .bigtext-desc{
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .steps{
+        margin-top: 50px;
+    }
+
+    .description{
+        padding: 10px;
+    }
+
+    .description h1{
+        font-size: 22px;
+    }
+
+    .desc-pic img{
+        width: 100%;
+        height: auto;
+    }
+
+    .description img{
+        width: 100%;
+        height: auto;
+    }
+
+    .desc-pic h1{
+        font-size: 22px;
+    }
+
+    .desc-pic{
+        padding:10px;
+    }
+
+    .footer-column{
+        padding-left: 0px;
+        border-top:1px solid #ccc;
+    }
+
+    .footer-address{
+        padding-left: 20px;
+    }
+
+    .choose-account-left{
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .choose-account-middle{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-top: 0px;
+        padding-left: 55px;
+    }
+
+    .choose-account-right{
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .businesspage-bigtext h1{
+        font-size: 30px;
+    }
+
+    .businesspage-form p{
+        font-size: 15px;
+        font-weight: normal;
+        padding-top:10px; 
+        padding-bottom: 10px;
+    }
+
+    .business-slider-content{
+        height: 110%;
+    }
+}
+@media only screen and (max-width: 700px){
+    .title_welcome {font-size: 32px;}
+    .title_up {font-size: 44px;}
+    .logo_img_login {margin: 20px auto 0; -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px; border: 2px solid #001d72;}
+    .no_radious .semibold{font-size: 20px;}
+}

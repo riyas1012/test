@@ -1,0 +1,276 @@
+*, body, h1, h2, h3, h4, h5, h6, a, span, p, div{
+	font-family: 'Raleway', sans-serif;
+}
+
+a{
+	text-decoration: none !important;
+}
+
+body{
+	background: url('../img/bg.jpg') center center no-repeat fixed;
+	background-size: cover;
+}
+
+.landing{
+	padding-top: 80px;
+	padding-left: 220px;
+	padding-right: 220px;
+}
+
+.overlay{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(0,153,204,0.5)), color-stop(100%, rgba(255,193,77,0.5)));
+	background: -webkit-linear-gradient(-45deg, rgba(0,153,204,0.5) 0%, rgba(255,193,77,0.5) 100%);
+	background: -webkit-linear-gradient(315deg, rgba(0,153,204,0.5) 0%, rgba(255,193,77,0.5) 100%);
+	background: linear-gradient(135deg, rgba(0,153,204,0.5) 0%, rgba(255,193,77,0.5) 100%);
+}
+
+.second-overlay{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+}
+
+.uber-logo img{
+	width: 80px;
+	height: 80px;
+}
+
+.login-button{
+	background: #33B5E5;
+	padding:6px 15px; 
+	text-align: center;
+	border-radius: 3px;
+}
+
+.login-button a{
+	color: #fff;
+	font-weight: 300;
+	font-size: 16px;
+}
+
+.landing-page-text{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.landing-page-text h1{
+	font-size: 64px;
+	line-height: 78px;
+	font-weight: 200;
+	color: #fff;
+	letter-spacing: 2px;
+}
+
+.landing-page-text h1 span{
+	font-weight: 400;
+}
+
+.uber-input{
+	padding:0px;
+}
+
+.uber-input input{
+	width: 100%;
+	height: 50px;
+	border:0px;
+	padding-left: 10px;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.register-button{
+	background-color: #33B5E5;
+	padding-top: 15px;
+	padding-bottom:15px;
+	height: 50px;
+	text-align: center;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.register-button a{
+	color: #fff;
+	font-size: 16px;
+}
+
+.social-icons{
+	padding-top: 95px;
+	padding-bottom: 40px;
+}
+
+.icons li{
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.icons li a{
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	border-radius: 5px;
+	display: inline-block;
+	background-color: #0099CC;
+	color: #fff;
+}
+
+.icons a:hover{
+	background-color: #33B5E5;
+}
+
+.features{
+	background: #fff;
+	padding-top: 10px;
+	padding-bottom: 120px;
+	width: 100%;
+	left: 0;
+}
+
+.feature-heading{
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 60px;
+}
+
+.feature-heading h1{
+	font-size: 34px;
+	line-height: 37.4px;
+	color: #333;
+	font-weight: 400;
+	padding-bottom: 20px;
+}
+
+.feature-list .row{
+	margin-top: 20px;
+}
+
+.feature-list h3{
+	margin-top: 0px;
+}
+
+.feature-list p{
+	font-size: 16px;
+	line-height: 25px;
+	color: #969696;
+}
+
+.line{
+	margin-left: 46%;
+	background: #33B5E5;
+}
+
+.team{
+	background: #F1F1F1;
+}
+
+.team h3{
+	text-align: center;
+	padding-bottom: 50px;
+	font-weight: 300;
+	font-size: 28px;
+	line-height: 30px;
+	color: #444;
+}
+
+.team .social-icons{
+	padding-top: 30px;
+	padding-bottom: 80px;
+}
+
+.contact-us{
+	background: #fff;
+}
+
+.contact-form{
+	padding-bottom: 150px;
+}
+
+.contact-form input{
+	height: 50px;
+	font-size: 16px;
+}
+
+.btn-blue{
+	/*height: 53px;*/
+	color: #fff;
+	background: #33B5E5;
+	font-size: 17px;
+	font-weight: 200;
+	letter-spacing: 0.5px;
+}
+
+.uber-footer{
+	background: #F1F1F1;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+.uber-footer h3{
+	font-size: 28px;
+	line-height: 30px;
+	color: #333;
+	font-weight: 400;
+}
+
+.uber-footer .social-icons{
+	padding-top: 20px;
+	padding-bottom: 0px;
+}
+
+.uber-footer p{
+	padding-top: 20px;
+}
+
+.modal-body p{
+	text-align: center;
+}
+
+.btn-facebook{
+	background: #46629E;
+	color: #fff;
+	height: 53px;
+}
+
+.inline li{
+	text-align: right;
+	display: inline-block;
+	padding-left: 5px;
+}
+
+.inline li a{
+	color: #fff;
+	padding-right: 5px;
+	font-size: 16px;
+	line-height: 25px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+.buttons{
+	margin-top: 45px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: #000;
+}
+
+.map{
+	width: 100%;
+	height: 400px;
+}
+
+.eta,.driver_details{
+    color: #ffffff;
+    padding-right: 20px;
+    font-weight: bold;
+}

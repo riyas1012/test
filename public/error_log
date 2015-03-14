@@ -1,0 +1,154 @@
+[30-Jan-2015 10:38:07 Asia/Calcutta] PHP Fatal error:  Call to a member function count() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/WalkerController.php on line 1527
+[30-Jan-2015 10:38:10 Asia/Calcutta] PHP Fatal error:  Call to a member function count() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/WalkerController.php on line 1527
+[30-Jan-2015 10:38:57 Asia/Calcutta] PHP Fatal error:  Call to a member function count() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/WalkerController.php on line 1527
+[04-Feb-2015 15:16:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'Log' (T_STRING), expecting ',' or ';' in /home/mavinapps123/public_html/taxi/api/app/helper.php on line 107
+[04-Feb-2015 15:29:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/mavinapps123/public_html/taxi/api/app/helper.php on line 96
+[05-Feb-2015 13:04:58 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:04:58 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:13:47 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:13:47 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:18:23 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:18:23 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:20:16 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:20:16 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:20:17 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:20:17 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:21:17 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:21:17 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:21:50 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:21:50 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:32:24 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:32:24 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:48:51 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 13:48:51 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[05-Feb-2015 19:56:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/mavinapps123/public_html/taxi/api/app/helper.php on line 122
+[06-Feb-2015 08:36:11 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 08:36:11 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 10:28:39 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 10:28:39 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 10:32:43 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 10:32:43 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 10:36:43 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 10:36:43 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 13:43:10 Asia/Calcutta] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php:281
+Stack trace:
+#0 /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php(281): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/mavinapps...', 281, Array)
+#1 [internal function]: OwnerController->register()
+#2 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/mavinapps123/public_html/taxi/api/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(OwnerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/mavinapps123/public_html/taxi/api in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[06-Feb-2015 13:43:10 Asia/Calcutta] PHP Fatal error:  Call to a member function fails() on a non-object in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 281
+[09-Feb-2015 15:57:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 16:00:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 16:28:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:05:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:06:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:06:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:06:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:06:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:07:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:08:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:09:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mavinapps123/public_html/taxi/api/app/controllers/OwnerController.php on line 307
+[09-Feb-2015 17:16:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 17:16:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 17:23:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 17:24:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 17:24:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 17:27:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 17:37:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 17:39:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 17:51:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 18:01:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
+[09-Feb-2015 18:01:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mavinapps123/public_html/taxi/api/app/controllers/DogController.php on line 2106
